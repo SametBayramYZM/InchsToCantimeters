@@ -1,0 +1,10 @@
+C:\Users\Samet\source\repos\InchsToCantimeters\InchsToCantimeters\bin\Debug\InchsToCantimeters.exe.config
+C:\Users\Samet\source\repos\InchsToCantimeters\InchsToCantimeters\bin\Debug\InchsToCantimeters.exe
+C:\Users\Samet\source\repos\InchsToCantimeters\InchsToCantimeters\bin\Debug\InchsToCantimeters.pdb
+C:\Users\Samet\source\repos\InchsToCantimeters\InchsToCantimeters\obj\Debug\InchsToCantimeters.csprojAssemblyReference.cache
+C:\Users\Samet\source\repos\InchsToCantimeters\InchsToCantimeters\obj\Debug\InchsToCantimeters.InchesToCantimeters.resources
+C:\Users\Samet\source\repos\InchsToCantimeters\InchsToCantimeters\obj\Debug\InchsToCantimeters.Properties.Resources.resources
+C:\Users\Samet\source\repos\InchsToCantimeters\InchsToCantimeters\obj\Debug\InchsToCantimeters.csproj.GenerateResource.cache
+C:\Users\Samet\source\repos\InchsToCantimeters\InchsToCantimeters\obj\Debug\InchsToCantimeters.csproj.CoreCompileInputs.cache
+C:\Users\Samet\source\repos\InchsToCantimeters\InchsToCantimeters\obj\Debug\InchsToCantimeters.exe
+C:\Users\Samet\source\repos\InchsToCantimeters\InchsToCantimeters\obj\Debug\InchsToCantimeters.pdb
